@@ -175,6 +175,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [@RemoteJobRadarBot](https://t.me/RemoteJobRadarBot) - Search fresh remote jobs and get keyword alerts, aggregated from Remotive, Remote OK and Arbeitnow.
 - [TG Sender](https://github.com/MrStricxn/tgsender) - CLI that sends a different post per Telegram group via MTProto (Telethon), with per-group cooldowns and premium emoji.
 - [@ozvuchka_free_bot](https://t.me/ozvuchka_free_bot) - Free Russian text-to-speech: turns text into a voice message with lifelike AI voices, no limits, no ads.
+- [Weight Goal Bot](https://t.me/my_weight_goal_bot) - Tracks photo-backed weight goals with weekly checkpoints, charts, reminders, and achievements. [Apache-2.0 source](https://github.com/IgorShadurin/weight-telegram-bot).
 
 ## AI & LLM Bots
 
