@@ -90,6 +90,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 - [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET client library. Most popular C# option.
 - [WTelegramClient](https://github.com/wiz0u/WTelegramClient) - Full MTProto client for .NET.
+- [PRTelegramBot](https://github.com/prethink/PRTelegramBot) - A .NET framework for building Telegram bots on top of Telegram.Bot: attribute-based command routing, menus, middleware, DI and background tasks.
 
 ### Ruby
 
